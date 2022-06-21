@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Translate.Web", "Translate.Web\Translate.Web.csproj", "{C2E13AD1-F80F-438E-99C1-F4933C8A8EEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translate.Web.Test", "Translate.Web.Test\Translate.Web.Test.csproj", "{10888FEB-6FF2-45F5-A5D3-210C80877D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2E13AD1-F80F-438E-99C1-F4933C8A8EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E13AD1-F80F-438E-99C1-F4933C8A8EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E13AD1-F80F-438E-99C1-F4933C8A8EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E13AD1-F80F-438E-99C1-F4933C8A8EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10888FEB-6FF2-45F5-A5D3-210C80877D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10888FEB-6FF2-45F5-A5D3-210C80877D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10888FEB-6FF2-45F5-A5D3-210C80877D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10888FEB-6FF2-45F5-A5D3-210C80877D29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A08886F8-344E-4014-BC5D-15B223453DAF}
+	EndGlobalSection
+EndGlobal
